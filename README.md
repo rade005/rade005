@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rade005
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
