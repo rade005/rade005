@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me on e-mail: rade_dobras@yahoo.com
 
 <!---
 rade005/rade005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
